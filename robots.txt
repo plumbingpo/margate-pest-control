@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://margatepestcontrolco.com/sitemap.xml
